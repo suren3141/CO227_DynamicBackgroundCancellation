@@ -1,3 +1,7 @@
+ToDebug/*
+ToDoList/*
+pythonTutorials/*
+
 # Dynamic Background Cancellation
 
 Dynamic background cancellation is a fundamental problem in video processing. Eventhough estimating the foreground is trivial in static background conditions, estimating the foreground can be tricky when the background is dynamic as well.
